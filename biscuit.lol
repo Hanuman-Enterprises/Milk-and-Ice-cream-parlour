@@ -6,5 +6,3 @@ goodday
 
 i love my india
 i love my country
-i am sunny
-
